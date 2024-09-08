@@ -1,24 +1,17 @@
 # Hello there! I'm **MINAKSHI** 👋
 
-<!-- Use HTML for layout control -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <!-- Bullet Points Section -->
-  <div style="flex: 1; padding-right: 20px;">
-    <ul>
-      <li>👩‍💻 **Bachelor’s degree in 2024** and currently pursuing an MSc in IT.</li>
-      <li>🌱 Proficient in **HTML, CSS, JavaScript, React, Node.js, MongoDB, AWS,** and **Azure**.</li>
-      <li>🚀 Actively learning and working with the **MERN stack** and **cloud computing**.</li>
-      <li>👯 Excited to collaborate on innovative web and cloud projects.</li>
-      <li>🎌 Passionate about anime! Inspired by Mikasa Ackerman’s determination. 🌟</li>
-    </ul>
-    <p>📄 Get my resume here: <a href="https://drive.google.com/file/d/1BY9sOHlN0Je9HPVl1Ey1f9veQf-leMCf/view?usp=sharing" target="_blank">RESUME</a></p>
-  </div>
-  
-  <!-- Image Section -->
-  <div style="flex: 1; text-align: right;">
-    <img src="https://media1.tenor.com/m/Rx9nnFWfFMQAAAAd/mikasa-ackerman-attack-on-titan.gif" width="300" alt="Mikasa Ackerman"/>
-  </div>
-</div>
+<p align="left">
+  <img src="https://media1.tenor.com/m/Rx9nnFWfFMQAAAAd/mikasa-ackerman-attack-on-titan.gif" width="300" alt="Mikasa Ackerman"/>
+</p>
+
+- 👩‍💻 **Bachelor’s degree in 2024** and currently pursuing an MSc in IT.
+- 🌱 Proficient in **HTML, CSS, JavaScript, React, Node.js, MongoDB, AWS,** and **Azure**.
+- 🚀 Actively learning and working with the **MERN stack** and **cloud computing**.
+- 👯 Excited to collaborate on innovative web and cloud projects.
+- 🎌 Passionate about anime! Inspired by Mikasa Ackerman’s determination. 🌟
+
+- 📄 Get my resume here: [RESUME](https://drive.google.com/file/d/1BY9sOHlN0Je9HPVl1Ey1f9veQf-leMCf/view?usp=sharing)
+
 
 ## 🛠️ Technologies & Tools
 
@@ -29,6 +22,7 @@
   <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
   <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
 </p>
 <br/><br/>
 
