@@ -4,15 +4,14 @@
   <img src="https://media1.tenor.com/m/Rx9nnFWfFMQAAAAd/mikasa-ackerman-attack-on-titan.gif" width="300" alt="Mikasa Ackerman"/>
 </p>
 
-<p align="left">
-  - 👩‍💻 **Bachelor’s degree in 2024** and currently pursuing an MSc in IT.<br>
-  - 🌱 Proficient in **HTML, CSS, JavaScript, React, Node.js, MongoDB, AWS,** and **Azure**.<br>
-  - 🚀 Actively learning and working with the **MERN stack** and **cloud computing**.<br>
-  - 👯 Excited to collaborate on innovative web and cloud projects.<br>
-  - 🎌 Passionate about anime! Inspired by Mikasa Ackerman’s determination. 🌟
-</p>
+- 👩‍💻 **Bachelor’s degree in 2024** and currently pursuing an MSc in IT.
+- 🌱 Proficient in **HTML, CSS, JavaScript, React, Node.js, MongoDB, AWS,** and **Azure**.
+- 🚀 Actively learning and working with the **MERN stack** and **cloud computing**.
+- 👯 Excited to collaborate on innovative web and cloud projects.
+- 🎌 Passionate about anime! Inspired by Mikasa Ackerman’s determination. 🌟
 
-- 📄 Get my resume here [RESUME](https://drive.google.com/file/d/1BY9sOHlN0Je9HPVl1Ey1f9veQf-leMCf/view?usp=sharing)
+- 📄 Get my resume here: [RESUME](https://drive.google.com/file/d/1BY9sOHlN0Je9HPVl1Ey1f9veQf-leMCf/view?usp=sharing)
+
 
 ## 🛠️ Technologies & Tools
 
