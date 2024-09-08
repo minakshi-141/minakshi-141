@@ -1,7 +1,7 @@
 # Hello there! I'm **<span style="color:blue">Minakshi</span>** 👋
 
 <p align="right">
-  <img src="https://media1.tenor.com/m/Rx9nnFWfFMQAAAAd/mikasa-ackerman-attack-on-titan.gif" width="300" alt="Mikasa Ackerman"/>
+  <img src="https://media1.tenor.com/m/Rx9nnFWfFMQAAAAd/mikasa-ackerman-attack-on-titan.gif" width="200" alt="Mikasa Ackerman"/>
 </p>
 
 <p align="left">
@@ -21,8 +21,8 @@
   <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
   <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-  <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/ios/452/amazon-web-services.png" />
-  <img align="left" alt="Azure" width="26px" src="https://img.icons8.com/ios/452/microsoft-azure.png" />
+  <img align="left" alt="AWS" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faws.amazon.com%2F&psig=AOvVaw3Z7G27Rv-evphl1xRPJWaZ&ust=1725900293711000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCNs-Pls4gDFQAAAAAdAAAAABAJ" />
+  <img align="left" alt="Azure" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.slajobs.com%2Fmicrosoft-azure-training-in-chennai%2F&psig=AOvVaw04JIYEB8Gx4PEkRTLejShB&ust=1725900339083000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICOjvjls4gDFQAAAAAdAAAAABAE" />
 </p>
 <br/><br/>
 
