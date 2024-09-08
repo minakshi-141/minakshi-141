@@ -1,6 +1,6 @@
 # Hello there! I'm **MINAKSHI** 👋
 
-<p align="left">
+<p align="right">
   <img src="https://media1.tenor.com/m/Rx9nnFWfFMQAAAAd/mikasa-ackerman-attack-on-titan.gif" width="300" alt="Mikasa Ackerman"/>
 </p>
 
@@ -35,6 +35,10 @@
 
   <a href="https://github.com/minakshi-141" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  
+  <a href="https://www.instagram.com/_.minakshi._27?igsh=MXR0N2hlbGxjY3pqdw==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
