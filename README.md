@@ -1,8 +1,7 @@
 # Hello there! I'm **MINAKSHI** 👋
 
-<p align="align centre">
+align="left">
   <img src="https://media1.tenor.com/m/Rx9nnFWfFMQAAAAd/mikasa-ackerman-attack-on-titan.gif" width="300" alt="Mikasa Ackerman"/>
-</p>
 
 - 👩‍💻 **Bachelor’s degree in 2024** and currently pursuing an MSc in IT.
 - 🌱 Proficient in **HTML, CSS, JavaScript, React, Node.js, MongoDB, AWS,** and **Azure**.
