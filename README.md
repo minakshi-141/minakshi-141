@@ -1,4 +1,4 @@
-# Hello there! I'm **<span style="color:blue">Minakshi</span>** 👋
+# Hello there! I'm **<span style="color:blue : Minakshi</span>** 👋
 
 <p align="centre">
   <img src="https://media1.tenor.com/m/Rx9nnFWfFMQAAAAd/mikasa-ackerman-attack-on-titan.gif" width="300" alt="Mikasa Ackerman"/>
