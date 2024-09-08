@@ -1,12 +1,12 @@
-# Hello there! I'm **MINAKSHI** 👋
+# Hello there! I'm *MINAKSHI* 👋
 
 <p align="right">
   <img src="https://media1.tenor.com/m/Rx9nnFWfFMQAAAAd/mikasa-ackerman-attack-on-titan.gif" width="300" alt="Mikasa Ackerman"/>
 </p>
 
-- 👩‍💻 **Bachelor’s degree in 2024** and currently pursuing an MSc in IT.
-- 🌱 Proficient in **HTML, CSS, JavaScript, React, Node.js, MongoDB, AWS,** and **Azure**.
-- 🚀 Actively learning and working with the **MERN stack** and **cloud computing**.
+- 👩‍💻 *Bachelor’s degree in 2024* and currently pursuing an MSc in IT.
+- 🌱 Proficient in *HTML, CSS, JavaScript, React, Node.js, MongoDB, AWS,* and *Azure*.
+- 🚀 Actively learning and working with the *MERN stack* and *cloud computing*.
 - 👯 Excited to collaborate on innovative web and cloud projects.
 - 🎌 Passionate about anime! Inspired by Mikasa Ackerman’s determination. 🌟
 
