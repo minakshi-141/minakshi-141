@@ -1,6 +1,6 @@
 # Hello there! I'm **MINAKSHI** 👋
 
-<p align="centre">
+<p align="align centre">
   <img src="https://media1.tenor.com/m/Rx9nnFWfFMQAAAAd/mikasa-ackerman-attack-on-titan.gif" width="300" alt="Mikasa Ackerman"/>
 </p>
 
@@ -11,6 +11,8 @@
   - 👯 Excited to collaborate on innovative web and cloud projects.<br>
   - 🎌 Passionate about anime! Inspired by Mikasa Ackerman’s determination. 🌟
 </p>
+
+- 📄 Get my resume here [RESUME](https://drive.google.com/drive/quota)
 
 ## 🛠️ Technologies & Tools
 
