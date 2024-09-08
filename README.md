@@ -12,7 +12,7 @@
   - 🎌 Passionate about anime! Inspired by Mikasa Ackerman’s determination. 🌟
 </p>
 
-- 📄 Get my resume here [RESUME](file:///D:/Minakshi_Mishra.pdf)
+- 📄 Get my resume here [RESUME](file:///C:/Users/Minakshi%20Mishra/Downloads/Minakshi%20-Mishra%20(1).pdf)
 
 ## 🛠️ Technologies & Tools
 
