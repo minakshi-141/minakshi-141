@@ -1,4 +1,4 @@
-# Hello there! I'm *MINAKSHI* 👋
+# Hello there! I'm **MINAKSHI** 👋
 
 <p align="right">
   <img src="https://media1.tenor.com/m/Rx9nnFWfFMQAAAAd/mikasa-ackerman-attack-on-titan.gif" width="300" alt="Mikasa Ackerman"/>
