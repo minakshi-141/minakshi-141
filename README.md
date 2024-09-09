@@ -1,5 +1,5 @@
 # Hello there! I'm **MINAKSHI** 👋
-<p justify-content="centre">
+<p justify-content="left">
   
   <img src="https://media1.tenor.com/m/Rx9nnFWfFMQAAAAd/mikasa-ackerman-attack-on-titan.gif" width="300" alt="Mikasa Ackerman"/>
 </p>
